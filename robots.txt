@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jheirondotel.github.io/sitemap.xml
